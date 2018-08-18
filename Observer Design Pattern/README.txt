@@ -2,7 +2,7 @@ A JavaFX application that implements Observer Design Pattern
 
 The observer pattern is a software design pattern in which an object, called the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods.
 
-The Ship class presents the subject or the observer and PirateShip classes are observers
+The Ship class presents the subject and PirateShip classes are observers
 
 Each PirateShip class has to implement the Observer interface.
 
